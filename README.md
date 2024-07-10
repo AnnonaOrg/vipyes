@@ -24,17 +24,6 @@ ENABLE_SET_WEBHOOK=false
 # 自定义 注册webhook url 地址（每次构建的时候注册这个地址，可留空）
 BOT_TELEGRAM_WEBHOOK_URL=https://域名/webhook/vipyes
 
-
-#接收消息的用户id（可通过机器人 @DawenDevBot 获取）
-SENDTOME_ID=
-#欢迎消息 /start
-WELCOME_MSG=
-
-#发送加密货币 消息内容
-SEND_CRYPTO_MSG=
-
-#发送加密货币USDT 消息内容
-SEND_CRYPTO_USDT_MSG=
 ```
 
 
