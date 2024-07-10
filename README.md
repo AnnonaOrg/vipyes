@@ -1,18 +1,18 @@
 A serverless Telegram bot
 
-TG SendToMe BOT
+TG Vip Yes BOT
 
-Telegram 全功能私聊机器人
+Telegram 群组仅限Vip用户发言
 
-双向私聊机器人，这里是为双向用户无法联系而提供的解决方案！
+非会员发言会自动被删除，如果无法删除，会提示警告
 
-# TG SendToMe BOT
+# TG vipYes BOT
 
-A Telegram bot 双向私聊机器人
+A Telegram bot 仅限Vip用户发言机器人
 
 ## 部署到 Vercel
 
-[Vercel Deploy](https://vercel.com/import/project?template=https://github.com/AnnonaOrg/sendtome)
+[Vercel Deploy](https://vercel.com/import/project?template=https://github.com/AnnonaOrg/vipyes)
 
 ##  环境变量
 
@@ -22,7 +22,7 @@ BOT_TELEGRAM_TOKEN=
 # 注册webhook url 地址 （每次构建的时候注册webhook，可留空）
 ENABLE_SET_WEBHOOK=false
 # 自定义 注册webhook url 地址（每次构建的时候注册这个地址，可留空）
-BOT_TELEGRAM_WEBHOOK_URL=https://域名/webhook/sendtome
+BOT_TELEGRAM_WEBHOOK_URL=https://域名/webhook/vipyes
 
 
 #接收消息的用户id（可通过机器人 @DawenDevBot 获取）
