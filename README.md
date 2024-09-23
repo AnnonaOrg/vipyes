@@ -31,13 +31,14 @@ BOT_TELEGRAM_WEBHOOK_URL=https://域名/webhook/vipyes
 
 AnnonaOrg官方频道: [@annonaOrg](https://t.me/annonaOrg)
 
-## 有问题反馈
+
+# 有问题反馈
 在使用中有任何问题，欢迎反馈
 开发机器人频道: [@umfaka](https://t.me/umfaka)
 
-## 打赏
+# 打赏
 如果该项目对您有所帮助，希望可以请我喝一杯咖啡☕️
 Usdt(trc20)打赏地址: 
 ```
-TQKsqiZJcgcbNfAtpjtPz9usJiEcRzTswT
+TJAT3sPPpmMxo1fkf5o7F3rWXzFvqWN9Zu
 ```
